@@ -8,9 +8,9 @@ function verificaSeOChutePossuiUmValorValido(chute) {
             <h3>Pressione o botão para jogar novamente</h3>
             <button class="reiniciar" onclick="recarregarPagina()">Reiniciar</button>
             `
+        } else {
+            elementoChute.innerHTML += '<div>Valor inválido!</div>'
         }
-        elementoChute.innerHTML += '<div>Valor inválido!</div>'
-        return
     }
 
     if (numeroMaiorOuMenorQueOValorPermitido(numero)) {
