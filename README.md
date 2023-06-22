@@ -1,6 +1,6 @@
 # Número secreto: o jogo
 
-Para jogar com seus amigos, acesse: https://numero-secreto-o-jogo.netlify.app/
+Para jogar, acesse: https://numero-secreto-o-jogo.netlify.app/
 
 ## Descrição
 O jogo consiste em acertar o número sorteado entre 1 e 1000 através do reconhecimento de voz.
